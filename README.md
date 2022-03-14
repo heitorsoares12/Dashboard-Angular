@@ -4,8 +4,9 @@
 
 # Layout do projeto
 
+![Imagem 1](https://user-images.githubusercontent.com/83045002/158219010-5779defe-f2b7-4104-9686-205db1f2eea1.png)
 
-
+![Imagem 2](https://user-images.githubusercontent.com/83045002/158219046-aa928b3a-295e-41ef-b96b-49a9faf50a50.png)
 
 # Iniciando o projeto
 Para iniciar a aplicação execute o seguinte comando no terminal dentro da pasta dashboard
